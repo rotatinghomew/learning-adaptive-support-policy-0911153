@@ -1,0 +1,14 @@
+[
+  {
+    "path": "data/cases/boundary-1.json",
+    "meaning": "每个初始学员都在首次支持后完成，固定期结局仍属于完整初始群体。"
+  },
+  {
+    "path": "data/cases/boundary-2.json",
+    "meaning": "历史支持从未给过同伴陪练；拟议动作不能被误认为已有经验支撑。"
+  },
+  {
+    "path": "data/cases/boundary-3.json",
+    "meaning": "固定期结局全部失访，过程量不能自动充当终期收益。"
+  }
+]

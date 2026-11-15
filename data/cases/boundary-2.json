@@ -1,0 +1,9704 @@
+{
+  "revision": "boundary-2",
+  "synthetic": true,
+  "roster": [
+    {
+      "learner": "p0",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p1",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p2",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p3",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p4",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p5",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p6",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p7",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p8",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p9",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p10",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p11",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p12",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p13",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p14",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p15",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p16",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p17",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p18",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p19",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p20",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p21",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p22",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p23",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p24",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p25",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p26",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p27",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p28",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p29",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p30",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p31",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p32",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p33",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p34",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p35",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p36",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p37",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p38",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p39",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p40",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p41",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p42",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p43",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p44",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p45",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p46",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p47",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p48",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p49",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p50",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p51",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p52",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p53",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p54",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p55",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p56",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p57",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p58",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p59",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p60",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p61",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p62",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p63",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p64",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p65",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p66",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p67",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p68",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p69",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p70",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p71",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p72",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p73",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p74",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p75",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p76",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p77",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p78",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p79",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p80",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p81",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p82",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p83",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p84",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p85",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p86",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p87",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p88",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p89",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p90",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p91",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p92",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p93",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p94",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p95",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p96",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p97",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p98",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p99",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p100",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p101",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p102",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p103",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p104",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p105",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p106",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p107",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p108",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p109",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p110",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p111",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p112",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p113",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p114",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p115",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p116",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p117",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p118",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p119",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p120",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p121",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p122",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p123",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p124",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p125",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p126",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p127",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p128",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p129",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p130",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p131",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p132",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p133",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p134",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p135",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p136",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p137",
+      "site": 2,
+      "initial_need": 1
+    },
+    {
+      "learner": "p138",
+      "site": 0,
+      "initial_need": 2
+    },
+    {
+      "learner": "p139",
+      "site": 1,
+      "initial_need": 3
+    },
+    {
+      "learner": "p140",
+      "site": 2,
+      "initial_need": 0
+    },
+    {
+      "learner": "p141",
+      "site": 0,
+      "initial_need": 1
+    },
+    {
+      "learner": "p142",
+      "site": 1,
+      "initial_need": 2
+    },
+    {
+      "learner": "p143",
+      "site": 2,
+      "initial_need": 3
+    },
+    {
+      "learner": "p144",
+      "site": 0,
+      "initial_need": 0
+    },
+    {
+      "learner": "p145",
+      "site": 1,
+      "initial_need": 1
+    },
+    {
+      "learner": "p146",
+      "site": 2,
+      "initial_need": 2
+    },
+    {
+      "learner": "p147",
+      "site": 0,
+      "initial_need": 3
+    },
+    {
+      "learner": "p148",
+      "site": 1,
+      "initial_need": 0
+    },
+    {
+      "learner": "p149",
+      "site": 2,
+      "initial_need": 1
+    }
+  ],
+  "episodes": [
+    {
+      "learner": "p0",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p0",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p0",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p1",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p2",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p2",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p2",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p3",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p3",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p3",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p4",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p4",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p4",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p5",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p5",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p5",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p6",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p6",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p6",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p7",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p7",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p7",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p8",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p8",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p8",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p9",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p9",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p9",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p10",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p10",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p10",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p11",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p11",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p11",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p12",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p12",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p12",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p13",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p14",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p14",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p14",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p15",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p16",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p16",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p17",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p17",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p17",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p18",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p18",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p19",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p19",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p20",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p21",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p21",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p21",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p22",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p22",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p22",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p23",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p24",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p24",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p24",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p25",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p25",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p25",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p26",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p26",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p26",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p27",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p27",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p27",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p28",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p28",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p28",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p29",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p30",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p30",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p31",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p31",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p32",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p32",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p33",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p33",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p34",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p34",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p34",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p35",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p36",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p37",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p37",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p37",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p38",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p39",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p40",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p40",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p40",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p41",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p41",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p41",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p42",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p43",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p43",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p43",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p44",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p45",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p45",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p45",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p46",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p46",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p47",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p47",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p47",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p48",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p48",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p48",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p49",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p50",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p51",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p51",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p51",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p52",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p52",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p52",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p53",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p53",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p54",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p55",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p55",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p56",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p56",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p56",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p57",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p57",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p57",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p58",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p58",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p58",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p59",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p59",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p59",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p60",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p61",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p61",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p61",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p62",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p62",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p62",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p63",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p64",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p64",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p64",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p65",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p65",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p65",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p66",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p66",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p66",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p67",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p67",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p67",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p68",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p68",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p68",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p69",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p69",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p70",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p70",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p70",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p71",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p71",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p71",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p72",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p72",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p72",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p73",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p73",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p73",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p74",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p75",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p76",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p76",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p76",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p77",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p77",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p77",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p78",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p79",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p79",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p79",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p80",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p80",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p80",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p81",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p81",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p81",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p82",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p82",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p82",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p83",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p83",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p83",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p84",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p84",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p84",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p85",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p85",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p85",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p86",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p86",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p86",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p87",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p87",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p87",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p88",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p88",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p89",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p89",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p89",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p90",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p90",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p90",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p91",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p92",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p92",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p93",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p93",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p94",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p94",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p95",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p95",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p95",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p96",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p97",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p98",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p98",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p98",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p99",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p99",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p99",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p100",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p101",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p101",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p101",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p102",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p102",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p103",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p103",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p103",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p104",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p104",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p105",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p105",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p105",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p106",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p106",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p106",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p107",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p107",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p108",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p108",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p108",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p109",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p109",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p109",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p110",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p110",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p111",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p111",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p111",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p112",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p112",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p112",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p113",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p113",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p113",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p114",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p114",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p114",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p115",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p115",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p115",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p116",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p116",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p116",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p117",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p117",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p117",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p118",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p118",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p118",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p119",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p119",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p119",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p120",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p120",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p120",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p121",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p121",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p122",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p122",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p122",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p123",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p124",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p125",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p125",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p125",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p126",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p126",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p126",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p127",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p127",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p127",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p128",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p128",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p129",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p129",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p129",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p130",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p130",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p130",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p131",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p131",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p131",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p132",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p132",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p132",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p133",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p133",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p133",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p134",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p134",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p134",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p135",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p135",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p136",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p136",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p136",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "withdrawn"
+    },
+    {
+      "learner": "p137",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p137",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p137",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p138",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p138",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p138",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p139",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p139",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p139",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p140",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p141",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p141",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p141",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p142",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p142",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p142",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p143",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p143",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "none",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p144",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p144",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p144",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p145",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p145",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p145",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p146",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p146",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p146",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p147",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 3,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p147",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 2,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p147",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    },
+    {
+      "learner": "p148",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p148",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "lost"
+    },
+    {
+      "learner": "p149",
+      "stage": 0,
+      "observed_at_decision": {
+        "need": 1,
+        "prior_attendance": 0
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p149",
+      "stage": 1,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 2
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": null
+    },
+    {
+      "learner": "p149",
+      "stage": 2,
+      "observed_at_decision": {
+        "need": 0,
+        "prior_attendance": 4
+      },
+      "action": "phone",
+      "action_probabilities": {
+        "none": 0.15,
+        "phone": 0.85,
+        "peer": 0
+      },
+      "terminal_reason": "completed"
+    }
+  ],
+  "rewards": [
+    {
+      "learner": "p0",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.31,
+      "missing_reward": false
+    },
+    {
+      "learner": "p0",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 54.98,
+      "missing_reward": false
+    },
+    {
+      "learner": "p0",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 39.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p1",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 31.02,
+      "missing_reward": false
+    },
+    {
+      "learner": "p2",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 52.65,
+      "missing_reward": false
+    },
+    {
+      "learner": "p2",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 57.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p2",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p3",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 42.31,
+      "missing_reward": false
+    },
+    {
+      "learner": "p3",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 35.67,
+      "missing_reward": false
+    },
+    {
+      "learner": "p3",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 35.92,
+      "missing_reward": false
+    },
+    {
+      "learner": "p4",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.18,
+      "missing_reward": false
+    },
+    {
+      "learner": "p4",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 49.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p4",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 48.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p5",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.86,
+      "missing_reward": false
+    },
+    {
+      "learner": "p5",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 63.16,
+      "missing_reward": false
+    },
+    {
+      "learner": "p5",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.74,
+      "missing_reward": false
+    },
+    {
+      "learner": "p6",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.21,
+      "missing_reward": false
+    },
+    {
+      "learner": "p6",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 42.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p6",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 46.42,
+      "missing_reward": false
+    },
+    {
+      "learner": "p7",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 34.28,
+      "missing_reward": false
+    },
+    {
+      "learner": "p7",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.0,
+      "missing_reward": false
+    },
+    {
+      "learner": "p7",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p8",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.75,
+      "missing_reward": false
+    },
+    {
+      "learner": "p8",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.53,
+      "missing_reward": false
+    },
+    {
+      "learner": "p8",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.64,
+      "missing_reward": false
+    },
+    {
+      "learner": "p9",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.87,
+      "missing_reward": false
+    },
+    {
+      "learner": "p9",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 34.83,
+      "missing_reward": false
+    },
+    {
+      "learner": "p9",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p10",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.39,
+      "missing_reward": false
+    },
+    {
+      "learner": "p10",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 46.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p10",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.36,
+      "missing_reward": false
+    },
+    {
+      "learner": "p11",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 56.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p11",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 51.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p11",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p12",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 55.85,
+      "missing_reward": false
+    },
+    {
+      "learner": "p12",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 43.76,
+      "missing_reward": false
+    },
+    {
+      "learner": "p12",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 53.1,
+      "missing_reward": false
+    },
+    {
+      "learner": "p13",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.49,
+      "missing_reward": false
+    },
+    {
+      "learner": "p14",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.6,
+      "missing_reward": false
+    },
+    {
+      "learner": "p14",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.65,
+      "missing_reward": false
+    },
+    {
+      "learner": "p14",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 29.18,
+      "missing_reward": false
+    },
+    {
+      "learner": "p15",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p16",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 47.41,
+      "missing_reward": false
+    },
+    {
+      "learner": "p16",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p17",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 49.53,
+      "missing_reward": false
+    },
+    {
+      "learner": "p17",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 53.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p17",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 46.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p18",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.65,
+      "missing_reward": false
+    },
+    {
+      "learner": "p18",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 35.48,
+      "missing_reward": false
+    },
+    {
+      "learner": "p19",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 41.98,
+      "missing_reward": false
+    },
+    {
+      "learner": "p19",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p20",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 41.0,
+      "missing_reward": false
+    },
+    {
+      "learner": "p21",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 47.05,
+      "missing_reward": false
+    },
+    {
+      "learner": "p21",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.72,
+      "missing_reward": false
+    },
+    {
+      "learner": "p21",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 53.01,
+      "missing_reward": false
+    },
+    {
+      "learner": "p22",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 61.96,
+      "missing_reward": false
+    },
+    {
+      "learner": "p22",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 52.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p22",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.67,
+      "missing_reward": false
+    },
+    {
+      "learner": "p23",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.77,
+      "missing_reward": false
+    },
+    {
+      "learner": "p24",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p24",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.33,
+      "missing_reward": false
+    },
+    {
+      "learner": "p24",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.05,
+      "missing_reward": false
+    },
+    {
+      "learner": "p25",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 61.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p25",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 46.71,
+      "missing_reward": false
+    },
+    {
+      "learner": "p25",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.22,
+      "missing_reward": false
+    },
+    {
+      "learner": "p26",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 34.93,
+      "missing_reward": false
+    },
+    {
+      "learner": "p26",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 43.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p26",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.95,
+      "missing_reward": false
+    },
+    {
+      "learner": "p27",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 41.62,
+      "missing_reward": false
+    },
+    {
+      "learner": "p27",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 58.4,
+      "missing_reward": false
+    },
+    {
+      "learner": "p27",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 52.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p28",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.57,
+      "missing_reward": false
+    },
+    {
+      "learner": "p28",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p28",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 55.66,
+      "missing_reward": false
+    },
+    {
+      "learner": "p29",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p30",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 53.01,
+      "missing_reward": false
+    },
+    {
+      "learner": "p30",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p31",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.22,
+      "missing_reward": false
+    },
+    {
+      "learner": "p31",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 47.1,
+      "missing_reward": false
+    },
+    {
+      "learner": "p32",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 56.72,
+      "missing_reward": false
+    },
+    {
+      "learner": "p32",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p33",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p33",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 49.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p34",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 47.5,
+      "missing_reward": false
+    },
+    {
+      "learner": "p34",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 40.76,
+      "missing_reward": false
+    },
+    {
+      "learner": "p34",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 44.98,
+      "missing_reward": false
+    },
+    {
+      "learner": "p35",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p36",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 36.84,
+      "missing_reward": false
+    },
+    {
+      "learner": "p37",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 57.34,
+      "missing_reward": false
+    },
+    {
+      "learner": "p37",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.71,
+      "missing_reward": false
+    },
+    {
+      "learner": "p37",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p38",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.62,
+      "missing_reward": false
+    },
+    {
+      "learner": "p39",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p40",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 52.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p40",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 61.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p40",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 59.87,
+      "missing_reward": false
+    },
+    {
+      "learner": "p41",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 33.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p41",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 57.13,
+      "missing_reward": false
+    },
+    {
+      "learner": "p41",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 52.73,
+      "missing_reward": false
+    },
+    {
+      "learner": "p42",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 47.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p43",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 60.5,
+      "missing_reward": false
+    },
+    {
+      "learner": "p43",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 33.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p43",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p44",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p45",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.83,
+      "missing_reward": false
+    },
+    {
+      "learner": "p45",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 59.89,
+      "missing_reward": false
+    },
+    {
+      "learner": "p45",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 48.89,
+      "missing_reward": false
+    },
+    {
+      "learner": "p46",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.8,
+      "missing_reward": false
+    },
+    {
+      "learner": "p46",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p47",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 37.31,
+      "missing_reward": false
+    },
+    {
+      "learner": "p47",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 52.7,
+      "missing_reward": false
+    },
+    {
+      "learner": "p47",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 30.16,
+      "missing_reward": false
+    },
+    {
+      "learner": "p48",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 61.35,
+      "missing_reward": false
+    },
+    {
+      "learner": "p48",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.66,
+      "missing_reward": false
+    },
+    {
+      "learner": "p48",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 48.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p49",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 42.5,
+      "missing_reward": false
+    },
+    {
+      "learner": "p50",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p51",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 38.64,
+      "missing_reward": false
+    },
+    {
+      "learner": "p51",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.31,
+      "missing_reward": false
+    },
+    {
+      "learner": "p51",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 46.22,
+      "missing_reward": false
+    },
+    {
+      "learner": "p52",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 62.85,
+      "missing_reward": false
+    },
+    {
+      "learner": "p52",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.38,
+      "missing_reward": false
+    },
+    {
+      "learner": "p52",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.41,
+      "missing_reward": false
+    },
+    {
+      "learner": "p53",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.35,
+      "missing_reward": false
+    },
+    {
+      "learner": "p53",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p54",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.44,
+      "missing_reward": false
+    },
+    {
+      "learner": "p55",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 36.75,
+      "missing_reward": false
+    },
+    {
+      "learner": "p55",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p56",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 41.68,
+      "missing_reward": false
+    },
+    {
+      "learner": "p56",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 58.23,
+      "missing_reward": false
+    },
+    {
+      "learner": "p56",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.82,
+      "missing_reward": false
+    },
+    {
+      "learner": "p57",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 59.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p57",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p57",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 46.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p58",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.1,
+      "missing_reward": false
+    },
+    {
+      "learner": "p58",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 61.23,
+      "missing_reward": false
+    },
+    {
+      "learner": "p58",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 53.59,
+      "missing_reward": false
+    },
+    {
+      "learner": "p59",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 47.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p59",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 46.9,
+      "missing_reward": false
+    },
+    {
+      "learner": "p59",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.3,
+      "missing_reward": false
+    },
+    {
+      "learner": "p60",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.65,
+      "missing_reward": false
+    },
+    {
+      "learner": "p61",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 60.34,
+      "missing_reward": false
+    },
+    {
+      "learner": "p61",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.82,
+      "missing_reward": false
+    },
+    {
+      "learner": "p61",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 60.99,
+      "missing_reward": false
+    },
+    {
+      "learner": "p62",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 57.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p62",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 41.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p62",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p63",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p64",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 60.03,
+      "missing_reward": false
+    },
+    {
+      "learner": "p64",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.76,
+      "missing_reward": false
+    },
+    {
+      "learner": "p64",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 53.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p65",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 56.93,
+      "missing_reward": false
+    },
+    {
+      "learner": "p65",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 51.66,
+      "missing_reward": false
+    },
+    {
+      "learner": "p65",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.63,
+      "missing_reward": false
+    },
+    {
+      "learner": "p66",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.95,
+      "missing_reward": false
+    },
+    {
+      "learner": "p66",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 59.31,
+      "missing_reward": false
+    },
+    {
+      "learner": "p66",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.72,
+      "missing_reward": false
+    },
+    {
+      "learner": "p67",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 33.15,
+      "missing_reward": false
+    },
+    {
+      "learner": "p67",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 33.88,
+      "missing_reward": false
+    },
+    {
+      "learner": "p67",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 37.62,
+      "missing_reward": false
+    },
+    {
+      "learner": "p68",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 64.68,
+      "missing_reward": false
+    },
+    {
+      "learner": "p68",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 62.04,
+      "missing_reward": false
+    },
+    {
+      "learner": "p68",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 59.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p69",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.98,
+      "missing_reward": false
+    },
+    {
+      "learner": "p69",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p70",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.91,
+      "missing_reward": false
+    },
+    {
+      "learner": "p70",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 42.25,
+      "missing_reward": false
+    },
+    {
+      "learner": "p70",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 56.27,
+      "missing_reward": false
+    },
+    {
+      "learner": "p71",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 35.02,
+      "missing_reward": false
+    },
+    {
+      "learner": "p71",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 46.91,
+      "missing_reward": false
+    },
+    {
+      "learner": "p71",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.37,
+      "missing_reward": false
+    },
+    {
+      "learner": "p72",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 45.97,
+      "missing_reward": false
+    },
+    {
+      "learner": "p72",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.34,
+      "missing_reward": false
+    },
+    {
+      "learner": "p72",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.88,
+      "missing_reward": false
+    },
+    {
+      "learner": "p73",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 64.78,
+      "missing_reward": false
+    },
+    {
+      "learner": "p73",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 61.93,
+      "missing_reward": false
+    },
+    {
+      "learner": "p73",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 47.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p74",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.88,
+      "missing_reward": false
+    },
+    {
+      "learner": "p75",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.7,
+      "missing_reward": false
+    },
+    {
+      "learner": "p76",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.8,
+      "missing_reward": false
+    },
+    {
+      "learner": "p76",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p76",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 54.54,
+      "missing_reward": false
+    },
+    {
+      "learner": "p77",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p77",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 47.53,
+      "missing_reward": false
+    },
+    {
+      "learner": "p77",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 46.97,
+      "missing_reward": false
+    },
+    {
+      "learner": "p78",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.77,
+      "missing_reward": false
+    },
+    {
+      "learner": "p79",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 49.85,
+      "missing_reward": false
+    },
+    {
+      "learner": "p79",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.18,
+      "missing_reward": false
+    },
+    {
+      "learner": "p79",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 45.46,
+      "missing_reward": false
+    },
+    {
+      "learner": "p80",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 64.04,
+      "missing_reward": false
+    },
+    {
+      "learner": "p80",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p80",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 45.27,
+      "missing_reward": false
+    },
+    {
+      "learner": "p81",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p81",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 65.92,
+      "missing_reward": false
+    },
+    {
+      "learner": "p81",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p82",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.57,
+      "missing_reward": false
+    },
+    {
+      "learner": "p82",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 52.12,
+      "missing_reward": false
+    },
+    {
+      "learner": "p82",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 56.85,
+      "missing_reward": false
+    },
+    {
+      "learner": "p83",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.48,
+      "missing_reward": false
+    },
+    {
+      "learner": "p83",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 43.37,
+      "missing_reward": false
+    },
+    {
+      "learner": "p83",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 35.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p84",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.05,
+      "missing_reward": false
+    },
+    {
+      "learner": "p84",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 40.7,
+      "missing_reward": false
+    },
+    {
+      "learner": "p84",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 53.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p85",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.99,
+      "missing_reward": false
+    },
+    {
+      "learner": "p85",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.67,
+      "missing_reward": false
+    },
+    {
+      "learner": "p85",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.04,
+      "missing_reward": false
+    },
+    {
+      "learner": "p86",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 56.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p86",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 47.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p86",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p87",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 45.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p87",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 54.63,
+      "missing_reward": false
+    },
+    {
+      "learner": "p87",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 56.95,
+      "missing_reward": false
+    },
+    {
+      "learner": "p88",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 46.57,
+      "missing_reward": false
+    },
+    {
+      "learner": "p88",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p89",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 58.18,
+      "missing_reward": false
+    },
+    {
+      "learner": "p89",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 49.33,
+      "missing_reward": false
+    },
+    {
+      "learner": "p89",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.68,
+      "missing_reward": false
+    },
+    {
+      "learner": "p90",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 55.09,
+      "missing_reward": false
+    },
+    {
+      "learner": "p90",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 47.46,
+      "missing_reward": false
+    },
+    {
+      "learner": "p90",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 44.94,
+      "missing_reward": false
+    },
+    {
+      "learner": "p91",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 39.06,
+      "missing_reward": false
+    },
+    {
+      "learner": "p92",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.59,
+      "missing_reward": false
+    },
+    {
+      "learner": "p92",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 58.57,
+      "missing_reward": false
+    },
+    {
+      "learner": "p93",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 55.12,
+      "missing_reward": false
+    },
+    {
+      "learner": "p93",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.49,
+      "missing_reward": false
+    },
+    {
+      "learner": "p94",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.42,
+      "missing_reward": false
+    },
+    {
+      "learner": "p94",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.3,
+      "missing_reward": false
+    },
+    {
+      "learner": "p95",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 55.72,
+      "missing_reward": false
+    },
+    {
+      "learner": "p95",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 49.44,
+      "missing_reward": false
+    },
+    {
+      "learner": "p95",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 33.14,
+      "missing_reward": false
+    },
+    {
+      "learner": "p96",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p97",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p98",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.46,
+      "missing_reward": false
+    },
+    {
+      "learner": "p98",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 51.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p98",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 48.49,
+      "missing_reward": false
+    },
+    {
+      "learner": "p99",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 38.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p99",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 56.88,
+      "missing_reward": false
+    },
+    {
+      "learner": "p99",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 60.54,
+      "missing_reward": false
+    },
+    {
+      "learner": "p100",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.22,
+      "missing_reward": false
+    },
+    {
+      "learner": "p101",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 53.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p101",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.83,
+      "missing_reward": false
+    },
+    {
+      "learner": "p101",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 61.71,
+      "missing_reward": false
+    },
+    {
+      "learner": "p102",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 49.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p102",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p103",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 32.43,
+      "missing_reward": false
+    },
+    {
+      "learner": "p103",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.62,
+      "missing_reward": false
+    },
+    {
+      "learner": "p103",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p104",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 46.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p104",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.36,
+      "missing_reward": false
+    },
+    {
+      "learner": "p105",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 53.54,
+      "missing_reward": false
+    },
+    {
+      "learner": "p105",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.89,
+      "missing_reward": false
+    },
+    {
+      "learner": "p105",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 58.56,
+      "missing_reward": false
+    },
+    {
+      "learner": "p106",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.65,
+      "missing_reward": false
+    },
+    {
+      "learner": "p106",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p106",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.62,
+      "missing_reward": false
+    },
+    {
+      "learner": "p107",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 36.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p107",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p108",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.63,
+      "missing_reward": false
+    },
+    {
+      "learner": "p108",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.43,
+      "missing_reward": false
+    },
+    {
+      "learner": "p108",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 35.26,
+      "missing_reward": false
+    },
+    {
+      "learner": "p109",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p109",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 42.32,
+      "missing_reward": false
+    },
+    {
+      "learner": "p109",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 52.2,
+      "missing_reward": false
+    },
+    {
+      "learner": "p110",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p110",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p111",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 37.06,
+      "missing_reward": false
+    },
+    {
+      "learner": "p111",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 53.1,
+      "missing_reward": false
+    },
+    {
+      "learner": "p111",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.44,
+      "missing_reward": false
+    },
+    {
+      "learner": "p112",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 45.09,
+      "missing_reward": false
+    },
+    {
+      "learner": "p112",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p112",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p113",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.59,
+      "missing_reward": false
+    },
+    {
+      "learner": "p113",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 61.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p113",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p114",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.96,
+      "missing_reward": false
+    },
+    {
+      "learner": "p114",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.46,
+      "missing_reward": false
+    },
+    {
+      "learner": "p114",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.2,
+      "missing_reward": false
+    },
+    {
+      "learner": "p115",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 38.15,
+      "missing_reward": false
+    },
+    {
+      "learner": "p115",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 58.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p115",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 36.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p116",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.66,
+      "missing_reward": false
+    },
+    {
+      "learner": "p116",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 51.0,
+      "missing_reward": false
+    },
+    {
+      "learner": "p116",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 43.95,
+      "missing_reward": false
+    },
+    {
+      "learner": "p117",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 59.26,
+      "missing_reward": false
+    },
+    {
+      "learner": "p117",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.98,
+      "missing_reward": false
+    },
+    {
+      "learner": "p117",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 62.24,
+      "missing_reward": false
+    },
+    {
+      "learner": "p118",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 42.26,
+      "missing_reward": false
+    },
+    {
+      "learner": "p118",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 37.85,
+      "missing_reward": false
+    },
+    {
+      "learner": "p118",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 43.6,
+      "missing_reward": false
+    },
+    {
+      "learner": "p119",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 44.21,
+      "missing_reward": false
+    },
+    {
+      "learner": "p119",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 54.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p119",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 56.44,
+      "missing_reward": false
+    },
+    {
+      "learner": "p120",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 59.41,
+      "missing_reward": false
+    },
+    {
+      "learner": "p120",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.08,
+      "missing_reward": false
+    },
+    {
+      "learner": "p120",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 49.52,
+      "missing_reward": false
+    },
+    {
+      "learner": "p121",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p121",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p122",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 39.99,
+      "missing_reward": false
+    },
+    {
+      "learner": "p122",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.1,
+      "missing_reward": false
+    },
+    {
+      "learner": "p122",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.45,
+      "missing_reward": false
+    },
+    {
+      "learner": "p123",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 55.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p124",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 32.96,
+      "missing_reward": false
+    },
+    {
+      "learner": "p125",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 42.43,
+      "missing_reward": false
+    },
+    {
+      "learner": "p125",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 50.47,
+      "missing_reward": false
+    },
+    {
+      "learner": "p125",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 44.39,
+      "missing_reward": false
+    },
+    {
+      "learner": "p126",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.36,
+      "missing_reward": false
+    },
+    {
+      "learner": "p126",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 28.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p126",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 55.19,
+      "missing_reward": false
+    },
+    {
+      "learner": "p127",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 29.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p127",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 44.41,
+      "missing_reward": false
+    },
+    {
+      "learner": "p127",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p128",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.68,
+      "missing_reward": false
+    },
+    {
+      "learner": "p128",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p129",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 36.82,
+      "missing_reward": false
+    },
+    {
+      "learner": "p129",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 59.06,
+      "missing_reward": false
+    },
+    {
+      "learner": "p129",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 45.49,
+      "missing_reward": false
+    },
+    {
+      "learner": "p130",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 52.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p130",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 54.14,
+      "missing_reward": false
+    },
+    {
+      "learner": "p130",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 49.91,
+      "missing_reward": false
+    },
+    {
+      "learner": "p131",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 42.14,
+      "missing_reward": false
+    },
+    {
+      "learner": "p131",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 49.43,
+      "missing_reward": false
+    },
+    {
+      "learner": "p131",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p132",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 49.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p132",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 56.03,
+      "missing_reward": false
+    },
+    {
+      "learner": "p132",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 51.37,
+      "missing_reward": false
+    },
+    {
+      "learner": "p133",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 46.49,
+      "missing_reward": false
+    },
+    {
+      "learner": "p133",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.37,
+      "missing_reward": false
+    },
+    {
+      "learner": "p133",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 58.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p134",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.66,
+      "missing_reward": false
+    },
+    {
+      "learner": "p134",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.89,
+      "missing_reward": false
+    },
+    {
+      "learner": "p134",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.33,
+      "missing_reward": false
+    },
+    {
+      "learner": "p135",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.07,
+      "missing_reward": false
+    },
+    {
+      "learner": "p135",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 58.57,
+      "missing_reward": false
+    },
+    {
+      "learner": "p136",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 50.9,
+      "missing_reward": false
+    },
+    {
+      "learner": "p136",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 64.55,
+      "missing_reward": false
+    },
+    {
+      "learner": "p136",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.48,
+      "missing_reward": false
+    },
+    {
+      "learner": "p137",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.8,
+      "missing_reward": false
+    },
+    {
+      "learner": "p137",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 48.67,
+      "missing_reward": false
+    },
+    {
+      "learner": "p137",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 44.22,
+      "missing_reward": false
+    },
+    {
+      "learner": "p138",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.2,
+      "missing_reward": false
+    },
+    {
+      "learner": "p138",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 45.28,
+      "missing_reward": false
+    },
+    {
+      "learner": "p138",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 34.51,
+      "missing_reward": false
+    },
+    {
+      "learner": "p139",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 38.17,
+      "missing_reward": false
+    },
+    {
+      "learner": "p139",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 40.14,
+      "missing_reward": false
+    },
+    {
+      "learner": "p139",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 41.0,
+      "missing_reward": false
+    },
+    {
+      "learner": "p140",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 56.12,
+      "missing_reward": false
+    },
+    {
+      "learner": "p141",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 54.72,
+      "missing_reward": false
+    },
+    {
+      "learner": "p141",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 56.81,
+      "missing_reward": false
+    },
+    {
+      "learner": "p141",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.45,
+      "missing_reward": false
+    },
+    {
+      "learner": "p142",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 53.0,
+      "missing_reward": false
+    },
+    {
+      "learner": "p142",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 38.9,
+      "missing_reward": false
+    },
+    {
+      "learner": "p142",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 42.29,
+      "missing_reward": false
+    },
+    {
+      "learner": "p143",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 62.09,
+      "missing_reward": false
+    },
+    {
+      "learner": "p143",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 38.94,
+      "missing_reward": false
+    },
+    {
+      "learner": "p144",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 51.69,
+      "missing_reward": false
+    },
+    {
+      "learner": "p144",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 62.77,
+      "missing_reward": false
+    },
+    {
+      "learner": "p144",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.82,
+      "missing_reward": false
+    },
+    {
+      "learner": "p145",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.58,
+      "missing_reward": false
+    },
+    {
+      "learner": "p145",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 51.52,
+      "missing_reward": false
+    },
+    {
+      "learner": "p145",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 50.88,
+      "missing_reward": false
+    },
+    {
+      "learner": "p146",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.71,
+      "missing_reward": false
+    },
+    {
+      "learner": "p146",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 55.8,
+      "missing_reward": false
+    },
+    {
+      "learner": "p146",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 55.9,
+      "missing_reward": false
+    },
+    {
+      "learner": "p147",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 43.34,
+      "missing_reward": false
+    },
+    {
+      "learner": "p147",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 40.95,
+      "missing_reward": false
+    },
+    {
+      "learner": "p147",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 55.63,
+      "missing_reward": false
+    },
+    {
+      "learner": "p148",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 40.05,
+      "missing_reward": false
+    },
+    {
+      "learner": "p148",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": null,
+      "missing_reward": true
+    },
+    {
+      "learner": "p149",
+      "after_stage": 0,
+      "observed_time": 0.5,
+      "reward": 48.61,
+      "missing_reward": false
+    },
+    {
+      "learner": "p149",
+      "after_stage": 1,
+      "observed_time": 1.5,
+      "reward": 61.79,
+      "missing_reward": false
+    },
+    {
+      "learner": "p149",
+      "after_stage": 2,
+      "observed_time": 2.5,
+      "reward": 60.82,
+      "missing_reward": false
+    }
+  ],
+  "outcomes": [
+    {
+      "learner": "p0",
+      "week": 8,
+      "score": 42.87
+    },
+    {
+      "learner": "p1",
+      "week": 8,
+      "score": 56.7
+    },
+    {
+      "learner": "p2",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p3",
+      "week": 8,
+      "score": 50.52
+    },
+    {
+      "learner": "p4",
+      "week": 8,
+      "score": 59.01
+    },
+    {
+      "learner": "p5",
+      "week": 8,
+      "score": 50.74
+    },
+    {
+      "learner": "p6",
+      "week": 8,
+      "score": 42.91
+    },
+    {
+      "learner": "p7",
+      "week": 8,
+      "score": 51.88
+    },
+    {
+      "learner": "p8",
+      "week": 8,
+      "score": 47.47
+    },
+    {
+      "learner": "p9",
+      "week": 8,
+      "score": 54.2
+    },
+    {
+      "learner": "p10",
+      "week": 8,
+      "score": 49.45
+    },
+    {
+      "learner": "p11",
+      "week": 8,
+      "score": 53.81
+    },
+    {
+      "learner": "p12",
+      "week": 8,
+      "score": 51.11
+    },
+    {
+      "learner": "p13",
+      "week": 8,
+      "score": 48.93
+    },
+    {
+      "learner": "p14",
+      "week": 8,
+      "score": 45.23
+    },
+    {
+      "learner": "p15",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p16",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p17",
+      "week": 8,
+      "score": 42.22
+    },
+    {
+      "learner": "p18",
+      "week": 8,
+      "score": 50.01
+    },
+    {
+      "learner": "p19",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p20",
+      "week": 8,
+      "score": 49.83
+    },
+    {
+      "learner": "p21",
+      "week": 8,
+      "score": 50.36
+    },
+    {
+      "learner": "p22",
+      "week": 8,
+      "score": 53.1
+    },
+    {
+      "learner": "p23",
+      "week": 8,
+      "score": 41.09
+    },
+    {
+      "learner": "p24",
+      "week": 8,
+      "score": 53.15
+    },
+    {
+      "learner": "p25",
+      "week": 8,
+      "score": 52.56
+    },
+    {
+      "learner": "p26",
+      "week": 8,
+      "score": 51.61
+    },
+    {
+      "learner": "p27",
+      "week": 8,
+      "score": 52.37
+    },
+    {
+      "learner": "p28",
+      "week": 8,
+      "score": 48.56
+    },
+    {
+      "learner": "p29",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p30",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p31",
+      "week": 8,
+      "score": 52.25
+    },
+    {
+      "learner": "p32",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p33",
+      "week": 8,
+      "score": 40.53
+    },
+    {
+      "learner": "p34",
+      "week": 8,
+      "score": 48.73
+    },
+    {
+      "learner": "p35",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p36",
+      "week": 8,
+      "score": 47.87
+    },
+    {
+      "learner": "p37",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p38",
+      "week": 8,
+      "score": 49.3
+    },
+    {
+      "learner": "p39",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p40",
+      "week": 8,
+      "score": 48.78
+    },
+    {
+      "learner": "p41",
+      "week": 8,
+      "score": 56.53
+    },
+    {
+      "learner": "p42",
+      "week": 8,
+      "score": 44.3
+    },
+    {
+      "learner": "p43",
+      "week": 8,
+      "score": 49.86
+    },
+    {
+      "learner": "p44",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p45",
+      "week": 8,
+      "score": 48.92
+    },
+    {
+      "learner": "p46",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p47",
+      "week": 8,
+      "score": 50.1
+    },
+    {
+      "learner": "p48",
+      "week": 8,
+      "score": 50.46
+    },
+    {
+      "learner": "p49",
+      "week": 8,
+      "score": 48.69
+    },
+    {
+      "learner": "p50",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p51",
+      "week": 8,
+      "score": 58.54
+    },
+    {
+      "learner": "p52",
+      "week": 8,
+      "score": 46.01
+    },
+    {
+      "learner": "p53",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p54",
+      "week": 8,
+      "score": 43.34
+    },
+    {
+      "learner": "p55",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p56",
+      "week": 8,
+      "score": 58.2
+    },
+    {
+      "learner": "p57",
+      "week": 8,
+      "score": 47.8
+    },
+    {
+      "learner": "p58",
+      "week": 8,
+      "score": 51.57
+    },
+    {
+      "learner": "p59",
+      "week": 8,
+      "score": 46.87
+    },
+    {
+      "learner": "p60",
+      "week": 8,
+      "score": 48.53
+    },
+    {
+      "learner": "p61",
+      "week": 8,
+      "score": 53.33
+    },
+    {
+      "learner": "p62",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p63",
+      "week": 8,
+      "score": 48.87
+    },
+    {
+      "learner": "p64",
+      "week": 8,
+      "score": 53.06
+    },
+    {
+      "learner": "p65",
+      "week": 8,
+      "score": 40.21
+    },
+    {
+      "learner": "p66",
+      "week": 8,
+      "score": 51.86
+    },
+    {
+      "learner": "p67",
+      "week": 8,
+      "score": 45.0
+    },
+    {
+      "learner": "p68",
+      "week": 8,
+      "score": 43.52
+    },
+    {
+      "learner": "p69",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p70",
+      "week": 8,
+      "score": 56.43
+    },
+    {
+      "learner": "p71",
+      "week": 8,
+      "score": 51.58
+    },
+    {
+      "learner": "p72",
+      "week": 8,
+      "score": 51.87
+    },
+    {
+      "learner": "p73",
+      "week": 8,
+      "score": 48.18
+    },
+    {
+      "learner": "p74",
+      "week": 8,
+      "score": 44.49
+    },
+    {
+      "learner": "p75",
+      "week": 8,
+      "score": 42.39
+    },
+    {
+      "learner": "p76",
+      "week": 8,
+      "score": 50.69
+    },
+    {
+      "learner": "p77",
+      "week": 8,
+      "score": 53.32
+    },
+    {
+      "learner": "p78",
+      "week": 8,
+      "score": 46.37
+    },
+    {
+      "learner": "p79",
+      "week": 8,
+      "score": 56.08
+    },
+    {
+      "learner": "p80",
+      "week": 8,
+      "score": 47.73
+    },
+    {
+      "learner": "p81",
+      "week": 8,
+      "score": 54.74
+    },
+    {
+      "learner": "p82",
+      "week": 8,
+      "score": 48.92
+    },
+    {
+      "learner": "p83",
+      "week": 8,
+      "score": 50.56
+    },
+    {
+      "learner": "p84",
+      "week": 8,
+      "score": 53.87
+    },
+    {
+      "learner": "p85",
+      "week": 8,
+      "score": 45.24
+    },
+    {
+      "learner": "p86",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p87",
+      "week": 8,
+      "score": 52.26
+    },
+    {
+      "learner": "p88",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p89",
+      "week": 8,
+      "score": 54.17
+    },
+    {
+      "learner": "p90",
+      "week": 8,
+      "score": 50.51
+    },
+    {
+      "learner": "p91",
+      "week": 8,
+      "score": 43.51
+    },
+    {
+      "learner": "p92",
+      "week": 8,
+      "score": 53.04
+    },
+    {
+      "learner": "p93",
+      "week": 8,
+      "score": 50.45
+    },
+    {
+      "learner": "p94",
+      "week": 8,
+      "score": 42.35
+    },
+    {
+      "learner": "p95",
+      "week": 8,
+      "score": 58.79
+    },
+    {
+      "learner": "p96",
+      "week": 8,
+      "score": 45.84
+    },
+    {
+      "learner": "p97",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p98",
+      "week": 8,
+      "score": 49.76
+    },
+    {
+      "learner": "p99",
+      "week": 8,
+      "score": 49.52
+    },
+    {
+      "learner": "p100",
+      "week": 8,
+      "score": 56.98
+    },
+    {
+      "learner": "p101",
+      "week": 8,
+      "score": 52.49
+    },
+    {
+      "learner": "p102",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p103",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p104",
+      "week": 8,
+      "score": 49.42
+    },
+    {
+      "learner": "p105",
+      "week": 8,
+      "score": 47.32
+    },
+    {
+      "learner": "p106",
+      "week": 8,
+      "score": 47.26
+    },
+    {
+      "learner": "p107",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p108",
+      "week": 8,
+      "score": 51.55
+    },
+    {
+      "learner": "p109",
+      "week": 8,
+      "score": 49.98
+    },
+    {
+      "learner": "p110",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p111",
+      "week": 8,
+      "score": 46.4
+    },
+    {
+      "learner": "p112",
+      "week": 8,
+      "score": 50.22
+    },
+    {
+      "learner": "p113",
+      "week": 8,
+      "score": 51.25
+    },
+    {
+      "learner": "p114",
+      "week": 8,
+      "score": 50.64
+    },
+    {
+      "learner": "p115",
+      "week": 8,
+      "score": 47.37
+    },
+    {
+      "learner": "p116",
+      "week": 8,
+      "score": 38.07
+    },
+    {
+      "learner": "p117",
+      "week": 8,
+      "score": 60.55
+    },
+    {
+      "learner": "p118",
+      "week": 8,
+      "score": 52.84
+    },
+    {
+      "learner": "p119",
+      "week": 8,
+      "score": 52.75
+    },
+    {
+      "learner": "p120",
+      "week": 8,
+      "score": 50.64
+    },
+    {
+      "learner": "p121",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p122",
+      "week": 8,
+      "score": 53.46
+    },
+    {
+      "learner": "p123",
+      "week": 8,
+      "score": 46.2
+    },
+    {
+      "learner": "p124",
+      "week": 8,
+      "score": 44.54
+    },
+    {
+      "learner": "p125",
+      "week": 8,
+      "score": 55.25
+    },
+    {
+      "learner": "p126",
+      "week": 8,
+      "score": 50.79
+    },
+    {
+      "learner": "p127",
+      "week": 8,
+      "score": 47.21
+    },
+    {
+      "learner": "p128",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p129",
+      "week": 8,
+      "score": 51.04
+    },
+    {
+      "learner": "p130",
+      "week": 8,
+      "score": 59.72
+    },
+    {
+      "learner": "p131",
+      "week": 8,
+      "score": 47.05
+    },
+    {
+      "learner": "p132",
+      "week": 8,
+      "score": 56.94
+    },
+    {
+      "learner": "p133",
+      "week": 8,
+      "score": 50.32
+    },
+    {
+      "learner": "p134",
+      "week": 8,
+      "score": 45.55
+    },
+    {
+      "learner": "p135",
+      "week": 8,
+      "score": 51.85
+    },
+    {
+      "learner": "p136",
+      "week": 8,
+      "score": 45.77
+    },
+    {
+      "learner": "p137",
+      "week": 8,
+      "score": 53.78
+    },
+    {
+      "learner": "p138",
+      "week": 8,
+      "score": 45.08
+    },
+    {
+      "learner": "p139",
+      "week": 8,
+      "score": 39.91
+    },
+    {
+      "learner": "p140",
+      "week": 8,
+      "score": 44.34
+    },
+    {
+      "learner": "p141",
+      "week": 8,
+      "score": 55.83
+    },
+    {
+      "learner": "p142",
+      "week": 8,
+      "score": 46.29
+    },
+    {
+      "learner": "p143",
+      "week": 8,
+      "score": 46.75
+    },
+    {
+      "learner": "p144",
+      "week": 8,
+      "score": 44.99
+    },
+    {
+      "learner": "p145",
+      "week": 8,
+      "score": 47.18
+    },
+    {
+      "learner": "p146",
+      "week": 8,
+      "score": 53.5
+    },
+    {
+      "learner": "p147",
+      "week": 8,
+      "score": 57.36
+    },
+    {
+      "learner": "p148",
+      "week": 8,
+      "score": null
+    },
+    {
+      "learner": "p149",
+      "week": 8,
+      "score": 48.51
+    }
+  ],
+  "decision_schedule": {
+    "stages": [
+      0,
+      1,
+      2
+    ],
+    "outcome_week": 8
+  }
+}

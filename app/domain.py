@@ -1,3 +1,4 @@
+from app.regime import regime_value
 from app.trajectories import trajectory_profile
 from collections import Counter
 from app.protocol import finite, unique
@@ -32,4 +33,4 @@ def path_inventory(packet, options):
             "interpretation": "Observed paths are not counterfactual strategy values."}
 
 
-ANALYSES = {"path_inventory": path_inventory}
+ANALYSES = {"path_inventory": path_inventory, "regime_value": regime_value}

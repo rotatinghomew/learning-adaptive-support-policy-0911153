@@ -1,6 +1,6 @@
 # 阶段性辅导调整历史中的持续支持策略价值评估
 
-面向社区与老年学习项目的 Python 分析服务。当前支持 `path_inventory` 的已观察资料核对；业务资料在 `docs/data-contract.md`，现有调用与保存语义在 `docs/http-contract.md`，分析目标的验证边界在 `docs/verification.md`。
+面向社区与老年学习项目的 Python 分析服务。当前支持 `path_inventory` 的已观察资料核对与 `regime_value` 的支持规则策略价值评估；业务资料在 `docs/data-contract.md`，现有调用与保存语义在 `docs/http-contract.md`，分析目标的验证边界在 `docs/verification.md`，`regime_value` 的题面、选项与结果结构在 `docs/regime-value.md`。
 
 ## 环境与运行
 
@@ -22,6 +22,8 @@ docker run --rm --network none adaptive-support-policy:initial python -m app.dem
 ```
 
 `app.demo` 运行真实 HTTP 资料目录与分析进程边界并回读结果，通常数秒结束。数据全部为本地合成记录，没有外部服务或凭据；运行时不会拉包。测试与演示默认读取 data/current.json，后续可用 `--packet` 指定同契约的业务资料。所有时间及单位含义见资料契约，不以零代替缺失。
+
+正式展示新分析：`python -m app.demo --analysis regime_value`，从空临时结果目录启动两个真实服务、运行评估并完整回读保存结果。
 
 现有业务视图：`app/trajectories.py`，当前结果在 `source_profile` 中公开。
 
